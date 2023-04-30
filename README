@@ -1,0 +1,10 @@
+# change the IP address on Line 50 in the main.tf file to your personal IP addrress
+
+# to start terraform
+ $ terraform init
+
+# to commit any changes 
+ $ terraform plan 
+
+# to apply and build your script 
+$ terraform apply
